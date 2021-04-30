@@ -1,41 +1,20 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/Katharsis0/SimonTEC/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 # Tarea Corta: SimonTEC
+by Sebastián Hidalgo Vargas(Katharsis0) - 2019176561 
 
-by Sebastián Hidalgo Vargas (Katharsis0)
+![logo](https://user-images.githubusercontent.com/55753352/116669029-4e8e5180-a95b-11eb-8483-3eeaf19238dd.gif)
 
 ### Historias de Usuario
+![histo1](https://user-images.githubusercontent.com/55753352/116669167-7c739600-a95b-11eb-9210-fac1c10002fa.jpg)
+![histo2](https://user-images.githubusercontent.com/55753352/116669192-83020d80-a95b-11eb-9e1b-fb8da4f2576a.jpg)
 
 ### Plan de Iteraciones
+![itera](https://user-images.githubusercontent.com/55753352/116669300-a62cbd00-a95b-11eb-9ce9-6c865bdb4970.jpg)
 
-- Bulleted
-- List
+### Criticidad y Frecuencia de Uso
+![claisifcacion](https://user-images.githubusercontent.com/55753352/116685516-b51d6a80-a96f-11eb-8f9a-f7da682d1fb7.jpg)
 
-1. Numbered
-2. List
+### Minimal System Span
+![minimal](https://user-images.githubusercontent.com/55753352/116685793-278e4a80-a970-11eb-9e00-8b686da7d098.jpg)
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Katharsis0/SimonTEC/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Diagrama de Clases
+![Diagarama de Clases](https://user-images.githubusercontent.com/55753352/116685879-42f95580-a970-11eb-8715-676981016011.png)
